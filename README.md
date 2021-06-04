@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
 	<h3 align="center">Juan David Leon Barrera</h3>
 	<p align="center">

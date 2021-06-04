@@ -13,7 +13,7 @@
 	</p>
 </p>
 
-Mi nombre es Juan David Leon y me gusta la música, diseño gráfico, el desarrollo de software y la ciberseguridad. Desde aqui es podible revisar los proyectos que he estado realizando a lo largo de los años... o bueno los que se pueden ver 🍒 
+Mi nombre es Juan David Leon y me gusta la música, diseño gráfico, el desarrollo de software y la ciberseguridad. Desde aqui es posible revisar los proyectos que he estado realizando a lo largo de los años... o bueno los que se pueden ver 🍒 
 
 <br>
 <h3 align="center">Languajes y herramientas:</h3>

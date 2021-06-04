@@ -13,6 +13,7 @@
 
 Mi nombre es Juan David Leon y me gusta la música, diseño gráfico, el desarrollo de software y la ciberseguridad. Desde aqui es podible revisar los proyectos que he estado realizando a lo largo de los años... o bueno los que se pueden ver 🍒 
 
+<br>
 <h3 align="center">Languajes y herramientas:</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank">
@@ -59,7 +60,9 @@ Mi nombre es Juan David Leon y me gusta la música, diseño gráfico, el desarro
   </a>
 </p>
 
-## ¿Donde encontrarme?
+<br>
+
+<h3 align="center">¿Donde Encontrarme?</h3>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/juan-david-leon-barrera-20a0451a8/" target="_blank">

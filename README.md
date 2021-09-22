@@ -2,7 +2,7 @@
 	<h3 align="center">Juan David Leon Barrera</h3>
 	<p align="center">
 		<img src="https://img.shields.io/static/v1?label=&message=presentacion%20inicial&color=orange" alt="template repository">
-		<img src="https://img.shields.io/static/v1?label=version&message=1.0&color=blue" alt="v1.1">
+		<img src="https://img.shields.io/static/v1?label=version&message=1.2&color=blue" alt="v1.2">
 		<img src="https://img.shields.io/static/v1?label=licencia&message=no%20tiene&color=green" alt="no tiene">
 	</p>
 	<p align="center">

@@ -76,3 +76,7 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 		<img src="https://www.svgrepo.com/show/294400/web-ui.svg" alt="android" width="40" height="40"/> 
 	</a>
 </p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=wilmilcard&theme=yellow" alt="template repository">
+</p>
+

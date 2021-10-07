@@ -66,7 +66,7 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 
 <br>
 
-<h3 align="center">¿Donde Encontrarme?</h3>
+<h3 align="center">¿Donde puedes encontrarme?</h3>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/juan-david-leon-barrera-20a0451a8/" target="_blank">

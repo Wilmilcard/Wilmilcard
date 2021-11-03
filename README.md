@@ -13,7 +13,7 @@
 	</p>
 </p>
 
-👋 Mi nombre es <b>Juan David Leon</b> y me gusta la música, diseño gráfico, los cubos de rubik, el desarrollo de software y la ciberseguridad. Desde aqui es posible revisar los proyectos que he estado realizando a lo largo de los años... o bueno los que se pueden ver 🍒
+👋 Mi nombre es <b>Juan David Leon</b> y me gusta la música, diseño gráfico, los cubos de rubik, el desarrollo de software y la ciberseguridad. Ademas de la meteorologia Aeronautica y la docencia. Desde aqui es posible revisar los proyectos que he estado realizando a lo largo de los años... o bueno los que se pueden ver 🍒
 
 Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una solucion a algun problema cotidiano! 📱
 

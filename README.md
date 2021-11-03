@@ -69,7 +69,7 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 <h3 align="center">¿Donde puedes encontrarme?</h3>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/juan-david-leon-barrera-20a0451a8/" target="_blank">
+	<a href="https://www.linkedin.com/in/%F0%9F%A5%91-juan-david-leon-barrera-20a0451a8/" target="_blank">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="android" width="40" height="40"/> 
 	</a>
 	<a href="https://nevergate.com.co/" target="_blank">

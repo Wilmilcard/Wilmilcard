@@ -19,10 +19,10 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 
 ## Repositorios TOP
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wilmilcard&repo=WPF_Marvel&bg_color=45,F11999,F0131E&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/WPF_Marvel)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wilmilcard&repo=XAMARIN_Cuestionario_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/XAMARIN_Cuestionario_App)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wilmilcard&repo=GameStore_API&bg_color=45,151515,34495E&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/GameStore_API)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wilmilcard&repo=PhpLaravel_Game-Store&bg_color=45,FF5733,FFC300&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/PhpLaravel_Game-Store)
+[![](https://github-readme-stats.vercel.app/api/pin?username=wilmilcard&repo=WPF_Marvel&bg_color=45,F11999,F0131E&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/WPF_Marvel)
+[![](https://github-readme-stats.vercel.app/api/pin?username=wilmilcard&repo=XAMARIN_Cuestionario_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/XAMARIN_Cuestionario_App)
+[![](https://github-readme-stats.vercel.app/api/pin?username=wilmilcard&repo=GameStore_API&bg_color=45,151515,34495E&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/GameStore_API)
+[![](https://github-readme-stats.vercel.app/api/pin?username=wilmilcard&repo=PhpLaravel_Game-Store&bg_color=45,FF5733,FFC300&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/PhpLaravel_Game-Store)
 
 <br>
 <h3 align="center">Languajes y herramientas:</h3>

@@ -25,7 +25,9 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 [![](https://github-readme-stats.vercel.app/api/pin?username=wilmilcard&repo=PhpLaravel_Game-Store&bg_color=45,FF5733,FFC300&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Wilmilcard/PhpLaravel_Game-Store)
 
 <br>
-<h3 align="center">Languajes y herramientas:</h3>
+
+## Languajes y herramientas
+
 <p align="center"> 
 	<a href="https://developer.android.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -73,7 +75,7 @@ Me gusta sentarme a programar y crearme retos, ¡asi algun dia encuentre una sol
 
 <br>
 
-<h3 align="center">¿Donde puedes encontrarme?</h3>
+## ¿Donde puedes encontrarme?
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/%F0%9F%A5%91-juan-david-leon-barrera-20a0451a8/" target="_blank">

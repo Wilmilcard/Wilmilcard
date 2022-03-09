@@ -1,5 +1,5 @@
 <p align="center">
-	<h3 align="center">Juan David Leon Barrera</h3>
+	<h2 align="center">Juan David Leon Barrera</h2>
 	<p align="center">
 		<img src="https://img.shields.io/static/v1?label=&message=presentacion%20inicial&color=orange" alt="template repository">
 		<img src="https://img.shields.io/static/v1?label=version&message=2.0&color=blue" alt="v2.0">
